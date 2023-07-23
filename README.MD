@@ -1,4 +1,4 @@
-# Face Detectioin and Recoggnition
+# Face Detection and Recognition
 This project is used to collect user face images 
 and will train the LBHPH face classifier model
 then based on video feed from web cam will show the 
